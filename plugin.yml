@@ -1,0 +1,76 @@
+name: CreativeBanana
+main: com.ubempire.flatmap.FlatMap
+version: 1.0
+commands:
+  regen:
+    description: regenerates a chunk
+    usage: |
+      /<command>
+  give:
+    description: spawns an item
+    usage: |
+      /<command> ITEM NAME
+  g:
+    description: spawns an item
+    usage: |
+      /<command> ITEM NAME
+  list:
+    description: shows online players
+    usage: |
+      /<command>
+  clear:
+    description: clears your inventory
+    usage: |
+      /<command>
+  say:
+    description: broadcasts a message to the server
+    usage: |
+      /<command>
+  me:
+    description: tells people about you
+    usage: |
+      /<command>
+  rollback:
+    description: effects a rollback
+    usage: |
+      /<command>
+  setspawn:
+    description: teleports the player to spawn
+    usage: |
+      /<command>
+  spawn:
+    description: teleports the player to spawn
+    usage: |
+      /<command>
+  home:
+    description: creates a home or teleports you there
+    usage: |
+      /<command> name
+  about:
+    description: shows string
+    usage: |
+      /<command>
+  adminhelp:
+    description: shows string
+    usage: |
+      /<command>
+  setdata:
+    description: sets item data in your hand
+    usage: |
+      /<command> byte
+  help:
+    description: shows string
+    usage: |
+      /<command>
+  tphere:
+    description: teleports to player by name
+    usage: |
+      /<command> name
+  tp:
+    description: teleports to player by name
+    usage: |
+      /<command> name
+  jumpto:
+    description: teleports to nearest airspace
+    usage: |
+      /<command>
